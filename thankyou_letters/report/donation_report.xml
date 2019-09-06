@@ -24,7 +24,7 @@
         <div class="page">
             <style type="text/css">
                 #letter {
-                    font-family: "tetriaLight";
+                    font-family: "millerLight";
                     font-size: 10pt;
                     <t t-if="success_story">
                         margin-left: 6mm;
